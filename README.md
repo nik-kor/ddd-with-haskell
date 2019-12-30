@@ -15,8 +15,14 @@ The code I try to port resides [here](https://github.com/swlaschin/DomainModelin
 
 ## TODO
 
-- see how to implement `String50` https://github.com/swlaschin/DomainModelingMadeFunctional/blob/master/src/OrderTaking/Common.SimpleTypes.fs#L140
- - https://wiki.haskell.org/Smart_constructors
- - https://haskell-at-work.com/episodes/2018-02-26-validation-with-smart-constructors.html
- - https://www.reddit.com/r/haskellquestions/comments/6cr4xf/smart_constructors/
- - http://nikita-volkov.github.io/refined/
+* keep working on porting types with smart constructors
+
+## Useful links
+
+* https://owickstrom.github.io/domain-modelling-with-haskell-workshop/
+* https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html
+* https://www.youtube.com/watch?v=Up7LcbGZFuo
+* https://github.com/campezzi/haskell-ddd
+* https://owickstrom.github.io/domain-modeling-with-haskell-data-structures-oredev/#/title-slide
+* https://medium.com/@naveennegi/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d
+* https://github.com/graninas/Functional-Design-and-Architecture
